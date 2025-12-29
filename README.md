@@ -45,7 +45,7 @@ python infer.py
 ### Citation
 Please cite our paper if you find it is useful:
 ```
-@article{authors,
+@article{publication,
   title={yolio},
   author={authors},
   journal={},
