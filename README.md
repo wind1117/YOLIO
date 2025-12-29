@@ -46,7 +46,7 @@ python infer.py
 Please cite our paper if you find it is useful:
 ```
 @article{authors,
-  title={},
+  title={yolio},
   author={authors},
   journal={},
   volume={},
