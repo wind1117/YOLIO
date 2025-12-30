@@ -1,5 +1,5 @@
 # YOLIO
-The complete implementation and dataset will be publicly available soon.
+The paper is currently under review, and the source code and dataset will be made publicly available upon acceptance.
 
 ## You Only Look Intensity Once: Event-Driven Long-Term High-Speed Object Detection
 
