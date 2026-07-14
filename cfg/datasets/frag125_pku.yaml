@@ -1,0 +1,19 @@
+# parent
+# ├── ultralytics
+# └── datasets
+#     └── frag125_pku
+#         ├── images
+#         │   ├── train
+#         │   └── test
+#         └── eframes
+
+path: ../../datasets/frag125_pku # dataset root dir
+train: images/train # train images (relative to 'path')
+val: images/test # val images (relative to 'path')
+test:  images/test # test images (optional)
+
+# Classes
+names:
+  0: car
+  1: pedestrian
+  2: two-wheeler
